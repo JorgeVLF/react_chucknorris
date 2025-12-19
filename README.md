@@ -1,16 +1,60 @@
-# React + Vite
+# react_chucknorris
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web desenvolvida em **React com Vite**, como atividade prática da disciplina **Frontend Frameworks**.  
+O projeto consome múltiplas **APIs públicas** e apresenta os dados em telas organizadas, com navegação entre páginas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Objetivo do Projeto
 
-## React Compiler
+Demonstrar o uso do React para:
+- Consumo de APIs REST públicas
+- Organização de componentes
+- Navegação entre telas com React Router
+- Boas práticas de estruturação e versionamento com GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧰 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- React Router DOM
+- HTML5
+- CSS3
+- Git e GitHub
+
+---
+
+## 🌐 APIs Consumidas
+
+- **Cataas (Avatar de Gato)**  
+  https://cataas.com/cat  
+
+- **CAgent (Informações do Navegador)**  
+  https://www.apicagent.com  
+
+- **Chuck Norris API (Frases Aleatórias)**  
+  https://api.chucknorris.io  
+
+---
+
+## 🖥️ Telas da Aplicação
+
+- **Informações do Navegador**  
+  Exibe dados do navegador do usuário utilizando a API CAgent.
+
+- **Chuck Norris**  
+  Exibe uma frase aleatória do Chuck Norris junto com seu ícone oficial.
+
+- **Sobre**  
+  Contém informações do desenvolvedor, link para o LinkedIn e avatar.
+
+---
+
+## ▶️ Como Executar o Projeto Localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/JorgeVLF/react_chucknorris.git
