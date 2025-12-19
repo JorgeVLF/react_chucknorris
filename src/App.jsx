@@ -1,6 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import BrowserInfo from "./pages/BrowserInfo";
+import ChuckNorris from "./pages/ChuckNorris";
+import Sobre from "./pages/Sobre";
 
 function App() {
   return (
@@ -9,8 +11,8 @@ function App() {
 
       <Routes>
         <Route path="/" element={<BrowserInfo />} />
-        <Route path="/chuck" element={<h1>Chuck Norris</h1>} />
-        <Route path="/sobre" element={<h1>Sobre</h1>} />
+        <Route path="/chuck" element={<ChuckNorris />} />
+        <Route path="/sobre" element={<Sobre />} />
       </Routes>
     </BrowserRouter>
   );
