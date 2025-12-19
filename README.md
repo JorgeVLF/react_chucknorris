@@ -34,6 +34,8 @@ Demonstrar o uso do React para:
 ### Tela – Chuck Norris
 ![Tela Chuck Norris](./prints/chucknorris.png)
 
+### Tela – Sobre
+![Tela Sobre](./prints/sobre.png)
 ----
 ## 🌐 APIs Consumidas
 
