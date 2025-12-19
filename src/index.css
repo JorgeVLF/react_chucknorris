@@ -87,3 +87,11 @@ button:focus-visible {
   text-decoration: none;
   font-weight: bold;
 }
+.card {
+  background-color: #2d2d2d;
+  padding: 20px;
+  max-width: 400px;
+  margin: 40px;
+  border-radius: 8px;
+  color: white;
+}
