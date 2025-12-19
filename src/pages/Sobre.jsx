@@ -7,7 +7,8 @@ export default function Sobre() {
         src="https://avatars.githubusercontent.com/u/250465712?v=4"
         alt="Avatar do aluno"
         style={{
-          borderRadius: "50%",
+            width: "200px",
+            borderRadius: "50%",
           display: "block",
           margin: "20px auto"
         }}

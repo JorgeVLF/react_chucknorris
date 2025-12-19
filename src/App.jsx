@@ -9,11 +9,13 @@ function App() {
     <BrowserRouter>
       <Navbar />
 
-      <Routes>
-        <Route path="/" element={<BrowserInfo />} />
-        <Route path="/chuck" element={<ChuckNorris />} />
-        <Route path="/sobre" element={<Sobre />} />
-      </Routes>
+      <main className="container">
+        <Routes>
+          <Route path="/" element={<BrowserInfo />} />
+          <Route path="/chuck" element={<ChuckNorris />} />
+          <Route path="/sobre" element={<Sobre />} />
+        </Routes>
+      </main>
     </BrowserRouter>
   );
 }
