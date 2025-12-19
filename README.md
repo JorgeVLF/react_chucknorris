@@ -26,7 +26,15 @@ Demonstrar o uso do React para:
 - Git e GitHub
 
 ---
+## 📸 Prints da Aplicação
 
+### Tela – Informações do Navegador
+![Tela Navegador](prints/navegador.png)
+
+### Tela – Chuck Norris
+![Tela Chuck Norris](prints/chucknorris.png)
+
+----
 ## 🌐 APIs Consumidas
 
 - **Cataas (Avatar de Gato)**  
