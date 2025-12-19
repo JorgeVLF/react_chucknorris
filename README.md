@@ -1,3 +1,9 @@
+
+OS ARQUIVOS PRINCIPAIS ESTÃO DENTRO DA PASTA SRC!!!
+OS ARQUIVOS PRINCIPAIS ESTÃO DENTRO DA PASTA SRC!!!
+OS ARQUIVOS PRINCIPAIS ESTÃO DENTRO DA PASTA SRC!!!
+OS ARQUIVOS PRINCIPAIS ESTÃO DENTRO DA PASTA SRC!!!
+
 # react_chucknorris
 
 Aplicação web desenvolvida em **React com Vite**, como atividade prática da disciplina **Frontend Frameworks**.  
